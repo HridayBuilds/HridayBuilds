@@ -1,270 +1,165 @@
 <div align="center">
 
-<img src="techstack_image.png" width="100%" alt="Tech Stack Banner" />
+<img src="techstack_image.png" width="100%" alt="Banner" />
 
 <br/>
 
 ## Hi, I'm Hriday Mulchandani
 
-**Backend Engineer · Cloud Practitioner · Java / Spring Boot**
+**Backend · Engineer · Cloud · Practitioner · Java / Spring Boot**
 
-Building scalable backend systems with a focus on clean architecture, cloud-native design, and security.
+Building scalable backend systems with clean architecture, cloud-native design, and security.
 
-<br/>
-
-<a href="https://www.linkedin.com/in/hriday-mulchandani-249446188/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;
-<a href="https://hridaybuilds.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" /></a>&nbsp;
-<a href="https://drive.google.com/file/d/1kpxbxsn9M25ztfBWH-MTApF34I_a3pjP/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="28" /></a>&nbsp;
-<a href="mailto:hridaymulchandani21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
-
-</div>
+<a href="https://www.linkedin.com/in/hriday-mulchandani-249446188/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>&nbsp;
+<a href="https://hridaybuilds.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=googlechrome&logoColor=white" height="25" /></a>&nbsp;
+<a href="https://drive.google.com/file/d/1kpxbxsn9M25ztfBWH-MTApF34I_a3pjP/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="25" /></a>&nbsp;
+<a href="mailto:hridaymulchandani21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
 
 ---
 
 ### About
 
-I am a backend engineer specializing in **Java** and **Spring Boot**, with hands-on experience building secure REST APIs, role-based authorization systems, and cloud-deployed applications on **AWS**.
+</div>
 
-My work is centered around backend ownership — authentication and authorization, user-scoped data access, layered validation, centralized exception handling, and performance-conscious design. I have built systems that integrate third-party APIs, scheduled jobs, cloud storage (S3), and relational databases with JPA/Hibernate.
+I am a backend engineer specializing in **Java** and **Spring Boot**, with hands-on experience building secure REST APIs, role-based authorization systems, and cloud-deployed applications on **AWS**. My work is centered around backend ownership — authentication and authorization, user-scoped data access, layered validation, centralized exception handling, and performance-conscious design.
 
 I am currently exploring **microservices architecture** and **system design** concepts — load balancing, service discovery, API gateways, event-driven communication, and distributed tracing. I also have a solid understanding of cloud principles including **scalability**, **elasticity**, **high availability**, **fault tolerance**, and **loose coupling** of services.
 
-I apply common **design patterns** in practice — Singleton, Factory, Builder, Strategy, Observer, Adapter, Facade, and Template Method — to write maintainable, extensible backend code.
+I hold the **AWS Certified Cloud Practitioner** and **Oracle Cloud Infrastructure Foundations Associate** certifications. Currently in my B.Tech in Computer Engineering at **Pandit Deendayal Energy University** (CGPA: 9.3 / 10, 2023–2027).
 
-I hold the **AWS Certified Cloud Practitioner** and **Oracle Cloud Infrastructure Foundations Associate** certifications.
-
-Currently in my B.Tech in Computer Engineering at **Pandit Deendayal Energy University** (CGPA: 9.3 / 10, 2023–2027).
+<div align="center">
 
 ---
 
 ### Tech Stack
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" />
-<br/><sub><b>Java</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot" />
-<br/><sub><b>Spring Boot</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="48" height="48" alt="Hibernate" />
-<br/><sub><b>Hibernate</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="48" height="48" alt="PostgreSQL" />
-<br/><sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS" />
-<br/><sub><b>AWS</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" />
-<br/><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" />
-<br/><sub><b>Git</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" height="48" alt="IntelliJ" />
-<br/><sub><b>IntelliJ</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" />
-<br/><sub><b>Python</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" />
-<br/><sub><b>React</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" height="48" alt="JavaScript" />
-<br/><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C" />
-<br/><sub><b>C</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" />
-<br/><sub><b>MySQL</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" />
-<br/><sub><b>MongoDB</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" />
-<br/><sub><b>Postman</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" />
-<br/><sub><b>VS Code</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
-<br/><sub><b>GitHub</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/spring-logo.png" width="48" height="48" alt="Spring Security" />
-<br/><sub><b>Spring Security</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/oracle-logo.png" width="48" height="48" alt="Oracle Cloud" />
-<br/><sub><b>Oracle Cloud</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="48" height="48" alt="EC2/S3/RDS" />
-<br/><sub><b>EC2 · S3 · RDS</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://jwt.io/img/pic_logo.svg" width="48" height="48" alt="JWT" />
-<br/><sub><b>JWT</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-swagger-a-computer-language-designed-for-describing-documenting-consuming-restful-web-services-logo-color-tal-revivo.png" width="48" height="48" alt="REST APIs" />
-<br/><sub><b>REST APIs</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/java-web-token.png" width="48" height="48" alt="OAuth2" />
-<br/><sub><b>OAuth2</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/fluency/48/test-passed.png" width="48" height="48" alt="JUnit 5" />
-<br/><sub><b>JUnit 5</b></sub>
-</td>
-</tr>
-</table>
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark" height="40" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,react&theme=dark" height="40" />&nbsp;&nbsp;
+![Spring Security](https://img.shields.io/badge/Spring_Security-171717?style=flat-square&logo=springsecurity&logoColor=6DB33F)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-171717?style=flat-square&logo=spring&logoColor=6DB33F)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-171717?style=flat-square&logo=junit5&logoColor=25A162)
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" height="40" />
+
+**Tools & Technologies**
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman&theme=dark" height="40" />&nbsp;&nbsp;
+![REST APIs](https://img.shields.io/badge/REST_APIs-171717?style=flat-square&logo=openapiinitiative&logoColor=6BA539)
+![JWT](https://img.shields.io/badge/JWT-171717?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-171717?style=flat-square&logo=auth0&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-171717?style=flat-square&logo=openjdk&logoColor=white)
+
+**Cloud & Platforms**
+
+<img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" height="40" />&nbsp;&nbsp;
+![EC2](https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazonec2&logoColor=FF9900)
+![S3](https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazons3&logoColor=569A31)
+![RDS](https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazonrds&logoColor=527FFF)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-232F3E?style=flat-square&logo=amazondynamodb&logoColor=4053D6)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ---
 
 ### Certifications
 
+</div>
+
 <table>
 <tr>
-<td align="center" width="100">
-<br/>
-<a href="https://www.credly.com/badges/677a26d7-3968-4d4d-9cb6-96a7deffb449"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="70" /></a>
-<br/><br/>
+<td align="center" width="80">
+<a href="https://www.credly.com/badges/677a26d7-3968-4d4d-9cb6-96a7deffb449"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="55" /></a>
 </td>
 <td>
-<strong>AWS Certified Cloud Practitioner</strong><br/>
-Amazon Web Services<br/>
-<sub>Issued: February 2026 &nbsp;·&nbsp; Credential ID: <code>677a26d739684d4d9cb696a7deffb449</code></sub>
+<strong>AWS Certified Cloud Practitioner</strong> — Amazon Web Services<br/>
+<sub>Feb 2026 &nbsp;·&nbsp; <code>677a26d739684d4d9cb696a7deffb449</code></sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="100">
-<br/>
-<img src="https://img.icons8.com/color/96/oracle-logo.png" width="70" />
-<br/><br/>
+<td align="center" width="80">
+<img src="https://img.icons8.com/color/96/oracle-logo.png" width="55" />
 </td>
 <td>
-<strong>Oracle Cloud Infrastructure 2025 Foundations Associate</strong><br/>
-Oracle<br/>
-<sub>Issued: October 2025 &nbsp;·&nbsp; Credential ID: <code>323348511OCI25FNDCFA</code></sub>
+<strong>OCI 2025 Foundations Associate</strong> — Oracle<br/>
+<sub>Oct 2025 &nbsp;·&nbsp; <code>323348511OCI25FNDCFA</code></sub>
 </td>
 </tr>
 </table>
+
+<div align="center">
 
 ---
 
 ### Featured Projects
 
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**[Asteroid Alerting System](https://github.com/HridayBuilds/Asteroid_Alerting)**
-
-Spring Boot service integrating NASA's NeoWs API to identify potentially hazardous asteroids, store alert records, and send daily email notifications via scheduled jobs.
-
-![Java](https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-171717?style=flat-square&logo=springboot&logoColor=6DB33F)
-![REST API](https://img.shields.io/badge/REST_API-171717?style=flat-square&logo=openapiinitiative&logoColor=white)
-
+<a href="https://github.com/HridayBuilds/Asteroid_Alerting"><strong>Asteroid Alerting System</strong></a><br/>
+<sub>Spring Boot + NASA NeoWs API — hazardous asteroid alerts, scheduled email notifications, alert record storage.</sub><br/>
+<img src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=ED8B00" height="18" />
+<img src="https://img.shields.io/badge/Spring_Boot-171717?style=flat-square&logo=springboot&logoColor=6DB33F" height="18" />
 </td>
 <td width="50%" valign="top">
-
-**[Dine-In Order API](https://github.com/HridayBuilds/Dine-In-Order-API)**
-
-QR-based restaurant ordering backend with JWT-secured APIs, JPA, and AWS S3 for media storage. Admins and kitchen staff manage menus and order flow.
-
-![Java](https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Spring Security](https://img.shields.io/badge/Spring_Security-171717?style=flat-square&logo=springsecurity&logoColor=6DB33F)
-![AWS S3](https://img.shields.io/badge/AWS_S3-171717?style=flat-square&logo=amazons3&logoColor=569A31)
-
+<a href="https://github.com/HridayBuilds/Dine-In-Order-API"><strong>Dine-In Order API</strong></a><br/>
+<sub>QR-based restaurant ordering backend — JWT-secured APIs, JPA, AWS S3 media storage, role-based order flow.</sub><br/>
+<img src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=ED8B00" height="18" />
+<img src="https://img.shields.io/badge/Spring_Security-171717?style=flat-square&logo=springsecurity&logoColor=6DB33F" height="18" />
+<img src="https://img.shields.io/badge/AWS_S3-171717?style=flat-square&logo=amazons3&logoColor=569A31" height="18" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-**[Secure Notes Application](https://github.com/HridayBuilds/Secure-Notes-App)**
-
-Full-stack secure notes app — Spring Boot + React with JWT auth, RBAC, audit logging, OAuth2, and multi-factor authentication.
-
-![Java](https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![React](https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=61DAFB)
-![JWT](https://img.shields.io/badge/JWT-171717?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-171717?style=flat-square&logo=auth0&logoColor=white)
-
+<a href="https://github.com/HridayBuilds/Secure-Notes-App"><strong>Secure Notes Application</strong></a><br/>
+<sub>Spring Boot + React — JWT auth, RBAC, audit logging, OAuth2 login, and multi-factor authentication.</sub><br/>
+<img src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=ED8B00" height="18" />
+<img src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=61DAFB" height="18" />
+<img src="https://img.shields.io/badge/OAuth2-171717?style=flat-square&logo=auth0&logoColor=white" height="18" />
 </td>
 <td width="50%" valign="top">
-
-**[Fleet Flow Application](https://github.com/HridayBuilds/Mission_ImCodeable_Fleet_Flow)**
-
-Modular fleet and logistics management system — a centralized, rule-based digital hub for delivery operations, driver safety, and financial performance.
-
-![Java](https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-171717?style=flat-square&logo=springboot&logoColor=6DB33F)
-![JPA](https://img.shields.io/badge/JPA-171717?style=flat-square&logo=hibernate&logoColor=59666C)
-
+<a href="https://github.com/HridayBuilds/Mission_ImCodeable_Fleet_Flow"><strong>Fleet Flow Application</strong></a><br/>
+<sub>Modular fleet management system — centralized digital hub for delivery ops, driver safety, and finance.</sub><br/>
+<img src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=ED8B00" height="18" />
+<img src="https://img.shields.io/badge/Spring_Boot-171717?style=flat-square&logo=springboot&logoColor=6DB33F" height="18" />
+<img src="https://img.shields.io/badge/JPA-171717?style=flat-square&logo=hibernate&logoColor=59666C" height="18" />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-**[Career Saarthi](https://github.com/HridayBuilds/career-sarthi)**
-
-AI-powered career platform — React, Spring Boot, and FastAPI with ML-based skill gap analysis and secure JWT/OAuth2-enabled backend orchestration.
-
-![Java](https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![FastAPI](https://img.shields.io/badge/FastAPI-171717?style=flat-square&logo=fastapi&logoColor=009688)
-![React](https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=61DAFB)
-
+<a href="https://github.com/HridayBuilds/career-sarthi"><strong>Career Saarthi</strong></a><br/>
+<sub>AI career platform — React, Spring Boot, FastAPI, ML skill gap analysis, JWT/OAuth2 backend orchestration.</sub><br/>
+<img src="https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=ED8B00" height="18" />
+<img src="https://img.shields.io/badge/FastAPI-171717?style=flat-square&logo=fastapi&logoColor=009688" height="18" />
+<img src="https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=61DAFB" height="18" />
 </td>
 <td width="50%" valign="top">
 </td>
 </tr>
 </table>
 
----
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridayBuilds&langs_count=8&theme=github_dark&hide_border=true&layout=compact&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" width="400" />
-
-</div>
 
 ---
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridayBuilds&langs_count=6&theme=github_dark&hide_border=true&layout=compact&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" width="350" />
 
-<a href="https://www.linkedin.com/in/hriday-mulchandani-249446188/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22" /></a>&nbsp;&nbsp;
-<a href="https://github.com/HridayBuilds"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white" height="22" /></a>&nbsp;&nbsp;
-<a href="mailto:hridaymulchandani21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="22" /></a>&nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1kpxbxsn9M25ztfBWH-MTApF34I_a3pjP/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="22" /></a>&nbsp;&nbsp;
-<a href="https://hridaybuilds.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-171717?style=flat-square&logo=googlechrome&logoColor=white" height="22" /></a>
+---
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/hriday-mulchandani-249446188/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="20" /></a>&nbsp;
+<a href="https://github.com/HridayBuilds"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white" height="20" /></a>&nbsp;
+<a href="mailto:hridaymulchandani21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="20" /></a>&nbsp;
+<a href="https://drive.google.com/file/d/1kpxbxsn9M25ztfBWH-MTApF34I_a3pjP/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20" /></a>&nbsp;
+<a href="https://hridaybuilds.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-171717?style=flat-square&logo=googlechrome&logoColor=white" height="20" /></a>
+
+<br/>
 
 **Open to backend engineering opportunities — Java / Spring Boot / Cloud**
 
