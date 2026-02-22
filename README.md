@@ -29,9 +29,9 @@ I hold the **AWS Certified Cloud Practitioner** and **Oracle Cloud Infrastructur
 
 ---
 
-### Tech Stack
-
 <div align="center">
+
+### Tech Stack
 <table>
 <tr>
 <td align="center" width="96">
@@ -123,12 +123,12 @@ I hold the **AWS Certified Cloud Practitioner** and **Oracle Cloud Infrastructur
 <br/><sub><b>Oracle Cloud</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="48" height="48" alt="EC2/S3/RDS" />
-<br/><sub><b>EC2 · S3 · RDS</b></sub>
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48" height="48" alt="Kafka" />
+<br/><sub><b>Kafka</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="48" height="48" alt="DynamoDB" />
-<br/><sub><b>DynamoDB</b></sub>
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis" />
+<br/><sub><b>Redis</b></sub>
 </td>
 <td align="center" width="96">
 <img src="https://img.icons8.com/fluency/48/test-passed.png" width="48" height="48" alt="JUnit 5" />
@@ -139,6 +139,8 @@ I hold the **AWS Certified Cloud Practitioner** and **Oracle Cloud Infrastructur
 </div>
 
 ---
+
+<div align="center">
 
 ### Certifications
 
@@ -163,52 +165,4 @@ I hold the **AWS Certified Cloud Practitioner** and **Oracle Cloud Infrastructur
 </tr>
 </table>
 
----
-
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/HridayBuilds/Asteroid_Alerting">Asteroid Alerting System</a></h4>
-<p>Spring Boot service integrating NASA's NeoWs API to identify potentially hazardous asteroids, store alert records, and send daily email notifications via scheduled jobs.</p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/HridayBuilds/Dine-In-Order-API">Dine-In Order API</a></h4>
-<p>QR-based restaurant ordering backend with JWT-secured APIs, JPA, and AWS S3 for media storage. Admins and kitchen staff manage menus and order flow via role-based access.</p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/HridayBuilds/Secure-Notes-App">Secure Notes Application</a></h4>
-<p>Full-stack secure notes app — Spring Boot + React with JWT authentication, role-based access control, audit logging, OAuth2 login, and multi-factor authentication.</p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" />
-</td>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/HridayBuilds/Mission_ImCodeable_Fleet_Flow">Fleet Flow Application</a></h4>
-<p>Modular fleet and logistics management system — a centralized, rule-based digital hub for delivery operations, driver safety, and financial performance tracking.</p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4><a href="https://github.com/HridayBuilds/career-sarthi">Career Saarthi</a></h4>
-<p>AI-powered career platform — React, Spring Boot, and FastAPI with ML-based skill gap analysis and secure JWT/OAuth2-enabled backend orchestration.</p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
-</table>
+</div>
