@@ -13,7 +13,7 @@ Building scalable backend systems with a focus on clean architecture, cloud-nati
 <br/>
 
 <a href="https://www.linkedin.com/in/hriday-mulchandani-249446188/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>&nbsp;
-<a href="https://hridaybuilds.github.io"><img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" /></a>&nbsp;
+<a href="https://hridaybuilds.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=googlechrome&logoColor=white" height="28" /></a>&nbsp;
 <a href="https://drive.google.com/file/d/1kpxbxsn9M25ztfBWH-MTApF34I_a3pjP/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" height="28" /></a>&nbsp;
 <a href="mailto:hridaymulchandani21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
 
@@ -37,31 +37,112 @@ Currently in my B.Tech in Computer Engineering at **Pandit Deendayal Energy Univ
 
 ---
 
-### Currently working with
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,aws,docker,git,idea&theme=dark" />
-</p>
-
-### I have also worked with
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,javascript,react,mysql,mongodb,postman,vscode&theme=dark" />
-</p>
-
----
-
 ### Tech Stack
 
-| Domain | Technologies |
-|--------|-------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark" height="32" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" height="32" /> &nbsp; ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-171717?style=flat-square&logo=openapiinitiative&logoColor=white) ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white) ![Servlets](https://img.shields.io/badge/Servlets-171717?style=flat-square&logo=apache&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-171717?style=flat-square&logo=java&logoColor=white) |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react&theme=dark" height="32" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" height="32" /> |
-| **Cloud** | <img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" height="32" /> &nbsp; ![EC2](https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazonec2&logoColor=FF9900) ![S3](https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazons3&logoColor=569A31) ![RDS](https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazonrds&logoColor=527FFF) ![DynamoDB](https://img.shields.io/badge/DynamoDB-232F3E?style=flat-square&logo=amazondynamodb&logoColor=4053D6) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) |
-| **Security** | ![JWT](https://img.shields.io/badge/JWT-171717?style=flat-square&logo=jsonwebtokens&logoColor=white) ![OAuth2](https://img.shields.io/badge/OAuth2-171717?style=flat-square&logo=auth0&logoColor=white) ![RBAC](https://img.shields.io/badge/RBAC-171717?style=flat-square&logo=shieldsdotio&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-171717?style=flat-square&logo=openjdk&logoColor=white) |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman&theme=dark" height="32" /> |
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" />
+<br/><sub><b>Java</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot" />
+<br/><sub><b>Spring Boot</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="48" height="48" alt="Hibernate" />
+<br/><sub><b>Hibernate</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="48" height="48" alt="PostgreSQL" />
+<br/><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS" />
+<br/><sub><b>AWS</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" />
+<br/><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" />
+<br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" height="48" alt="IntelliJ" />
+<br/><sub><b>IntelliJ</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" />
+<br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" />
+<br/><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" height="48" alt="JavaScript" />
+<br/><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C" />
+<br/><sub><b>C</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" />
+<br/><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" />
+<br/><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" />
+<br/><sub><b>Postman</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" />
+<br/><sub><b>VS Code</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
+<br/><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/spring-logo.png" width="48" height="48" alt="Spring Security" />
+<br/><sub><b>Spring Security</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/oracle-logo.png" width="48" height="48" alt="Oracle Cloud" />
+<br/><sub><b>Oracle Cloud</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="48" height="48" alt="EC2/S3/RDS" />
+<br/><sub><b>EC2 · S3 · RDS</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://jwt.io/img/pic_logo.svg" width="48" height="48" alt="JWT" />
+<br/><sub><b>JWT</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-swagger-a-computer-language-designed-for-describing-documenting-consuming-restful-web-services-logo-color-tal-revivo.png" width="48" height="48" alt="REST APIs" />
+<br/><sub><b>REST APIs</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/java-web-token.png" width="48" height="48" alt="OAuth2" />
+<br/><sub><b>OAuth2</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/fluency/48/test-passed.png" width="48" height="48" alt="JUnit 5" />
+<br/><sub><b>JUnit 5</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -83,7 +164,7 @@ Amazon Web Services<br/>
 <tr>
 <td align="center" width="100">
 <br/>
-<img src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2025CA.png" width="70" />
+<img src="https://img.icons8.com/color/96/oracle-logo.png" width="70" />
 <br/><br/>
 </td>
 <td>
@@ -167,11 +248,9 @@ AI-powered career platform — React, Spring Boot, and FastAPI with ML-based ski
 
 ---
 
-### GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridayBuilds&theme=github_dark&hide_border=true&layout=compact&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridayBuilds&langs_count=8&theme=github_dark&hide_border=true&layout=compact&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" width="400" />
 
 </div>
 
@@ -182,7 +261,8 @@ AI-powered career platform — React, Spring Boot, and FastAPI with ML-based ski
 <a href="https://www.linkedin.com/in/hriday-mulchandani-249446188/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22" /></a>&nbsp;&nbsp;
 <a href="https://github.com/HridayBuilds"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white" height="22" /></a>&nbsp;&nbsp;
 <a href="mailto:hridaymulchandani21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="22" /></a>&nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1kpxbxsn9M25ztfBWH-MTApF34I_a3pjP/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="22" /></a>
+<a href="https://drive.google.com/file/d/1kpxbxsn9M25ztfBWH-MTApF34I_a3pjP/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="22" /></a>&nbsp;&nbsp;
+<a href="https://hridaybuilds.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-171717?style=flat-square&logo=googlechrome&logoColor=white" height="22" /></a>
 
 <br/><br/>
 
