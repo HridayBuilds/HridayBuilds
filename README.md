@@ -6,7 +6,7 @@
 
 ## Hi, I'm Hriday Mulchandani
 
-**Backend · Engineer · Cloud · Practitioner · Java / Spring Boot**
+**Backend · Engineer &nbsp;·&nbsp; Cloud · Practitioner &nbsp;·&nbsp; Java / Spring Boot**
 
 Building scalable backend systems with clean architecture, cloud-native design, and security.
 
@@ -25,7 +25,7 @@ I am a backend engineer specializing in **Java** and **Spring Boot**, with hands
 
 I am currently exploring **microservices architecture** and **system design** concepts — load balancing, service discovery, API gateways, event-driven communication, and distributed tracing. I also have a solid understanding of cloud principles including **scalability**, **elasticity**, **high availability**, **fault tolerance**, and **loose coupling** of services.
 
-I hold the **AWS Certified Cloud Practitioner** and **Oracle Cloud Infrastructure Foundations Associate** certifications. Currently in my B.Tech in Computer Engineering at **Pandit Deendayal Energy University** (CGPA: 9.3 / 10, 2023–2027).
+I hold the **AWS Certified Cloud Practitioner** and **Oracle Cloud Infrastructure Foundations Associate** certifications. Currently pursuing my **B.Tech in Computer Engineering** at **Pandit Deendayal Energy University**, Gandhinagar (CGPA: 9.3/10 | Batch of 2027).
 
 <div align="center">
 
@@ -33,37 +33,49 @@ I hold the **AWS Certified Cloud Practitioner** and **Oracle Cloud Infrastructur
 
 ### Tech Stack
 
-**Programming Languages**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark" height="40" />
+#### Programming Languages
 
-**Frameworks & Libraries**
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript&theme=dark" height="50" />
 
-<img src="https://skillicons.dev/icons?i=spring,hibernate,react&theme=dark" height="40" />&nbsp;&nbsp;
-![Spring Security](https://img.shields.io/badge/Spring_Security-171717?style=flat-square&logo=springsecurity&logoColor=6DB33F)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-171717?style=flat-square&logo=spring&logoColor=6DB33F)
-![JUnit 5](https://img.shields.io/badge/JUnit_5-171717?style=flat-square&logo=junit5&logoColor=25A162)
+<br/>
 
-**Databases**
+#### Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" height="40" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,react&theme=dark" height="50" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="26" />
 
-**Tools & Technologies**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman&theme=dark" height="40" />&nbsp;&nbsp;
-![REST APIs](https://img.shields.io/badge/REST_APIs-171717?style=flat-square&logo=openapiinitiative&logoColor=6BA539)
-![JWT](https://img.shields.io/badge/JWT-171717?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-171717?style=flat-square&logo=auth0&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-171717?style=flat-square&logo=openjdk&logoColor=white)
+#### Databases
 
-**Cloud & Platforms**
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" height="50" />
 
-<img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" height="40" />&nbsp;&nbsp;
-![EC2](https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazonec2&logoColor=FF9900)
-![S3](https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazons3&logoColor=569A31)
-![RDS](https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazonrds&logoColor=527FFF)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-232F3E?style=flat-square&logo=amazondynamodb&logoColor=4053D6)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+<br/>
+
+#### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman&theme=dark" height="50" />
+<br/><br/>
+<img src="https://img.shields.io/badge/REST_APIs-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" height="26" />
+
+<br/>
+
+#### Cloud & Platforms
+
+<img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" height="50" />
+<br/><br/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" height="26" />
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="26" />
 
 ---
 
@@ -73,8 +85,8 @@ I hold the **AWS Certified Cloud Practitioner** and **Oracle Cloud Infrastructur
 
 <table>
 <tr>
-<td align="center" width="80">
-<a href="https://www.credly.com/badges/677a26d7-3968-4d4d-9cb6-96a7deffb449"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="55" /></a>
+<td align="center" width="90">
+<a href="https://www.credly.com/badges/677a26d7-3968-4d4d-9cb6-96a7deffb449"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="60" /></a>
 </td>
 <td>
 <strong>AWS Certified Cloud Practitioner</strong> — Amazon Web Services<br/>
@@ -82,8 +94,8 @@ I hold the **AWS Certified Cloud Practitioner** and **Oracle Cloud Infrastructur
 </td>
 </tr>
 <tr>
-<td align="center" width="80">
-<img src="https://img.icons8.com/color/96/oracle-logo.png" width="55" />
+<td align="center" width="90">
+<img src="https://img.icons8.com/color/96/oracle-logo.png" width="60" />
 </td>
 <td>
 <strong>OCI 2025 Foundations Associate</strong> — Oracle<br/>
@@ -149,17 +161,10 @@ I hold the **AWS Certified Cloud Practitioner** and **Oracle Cloud Infrastructur
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridayBuilds&langs_count=6&theme=github_dark&hide_border=true&layout=compact&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" width="350" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HridayBuilds&theme=github_dark" width="320" />&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HridayBuilds&theme=github_dark" width="320" />
 
----
-
-<a href="https://www.linkedin.com/in/hriday-mulchandani-249446188/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="20" /></a>&nbsp;
-<a href="https://github.com/HridayBuilds"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white" height="20" /></a>&nbsp;
-<a href="mailto:hridaymulchandani21@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="20" /></a>&nbsp;
-<a href="https://drive.google.com/file/d/1kpxbxsn9M25ztfBWH-MTApF34I_a3pjP/view"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" height="20" /></a>&nbsp;
-<a href="https://hridaybuilds.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-171717?style=flat-square&logo=googlechrome&logoColor=white" height="20" /></a>
-
-<br/>
+<br/><br/>
 
 **Open to backend engineering opportunities — Java / Spring Boot / Cloud**
 
